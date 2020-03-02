@@ -11,7 +11,7 @@ Prediction of the price of diamonds based on their characteristics, putting into
 
 
 
-<img src=https://github.com/ireneisdoomed/Diamonds_ML/blob/master/IreneLS_Diamonds.png alt="300" width="350"/>
+<img src=https://github.com/ireneisdoomed/Diamonds_ML/blob/master/IreneLS_Diamonds.png alt="400" width="700"/>
 
 ### Data preparation, feature selection and extraction
 
